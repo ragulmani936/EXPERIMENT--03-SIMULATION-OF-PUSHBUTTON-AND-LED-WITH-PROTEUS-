@@ -112,12 +112,12 @@ int main(void)
 
 ## Output screen shots of proteus  :
 ### LED OFF:
-![img1](https://github.com/ragulmani936/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/blob/main/img1.jpg)
+![img1](https://github.com/ragulmani936/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94881918/f00aa565-ff25-4da6-bd1d-15e122e84c1c)
+
 
 
 ### LED ON:
-![img2](https://github.com/ragulmani936/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/blob/main/img.jpg)
-
+![img2](https://github.com/ragulmani936/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/94881918/799fc6f5-b323-4ed2-a09b-93ed8c4aa196)
 
 
 ## Circuit:
